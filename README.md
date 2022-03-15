@@ -1,4 +1,4 @@
-# pogaca-nerede-kart-oyunu
+# kart-oyunu
 
 > A Vue.js project
 
